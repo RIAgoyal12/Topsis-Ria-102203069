@@ -59,6 +59,12 @@ Rank
 
 This project is licensed under the MIT license. See LICENSE for more details.
 
+
+## Package 
+
+![image](https://github.com/user-attachments/assets/57825cfd-7d26-4003-93dc-c87203b94590)
+
+
 ## Additional Information
 This tool requires Python version 3.6 or higher.
 Make sure your input data is clean and only includes numerical values in the criteria columns.
