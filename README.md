@@ -18,7 +18,7 @@ This Python tool implements the TOPSIS algorithm to rank alternatives based on i
 To install the tool, use the following pip command:
 
 ```bash
-pip install Topsis-Ria-102203069
+pip install Topsis-Ria-102203069==1.0.0
 ```
 
 
